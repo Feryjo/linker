@@ -1,0 +1,19 @@
+{
+    "name": "farzad/linker",
+    "description": "link shortner",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Farzad\\Linker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "F.r345",
+            "email": "cod.cotube@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
